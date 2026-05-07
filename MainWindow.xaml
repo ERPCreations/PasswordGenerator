@@ -6,7 +6,7 @@
         Width="620"
         Icon="Assets/padlock.ico"
         WindowStartupLocation="CenterScreen"
-        ResizeMode="NoResize">
+        ResizeMode="CanMinimize">
 
     <Grid Margin="16">
         <Grid.RowDefinitions>
